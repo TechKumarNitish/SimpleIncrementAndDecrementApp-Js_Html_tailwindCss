@@ -1,5 +1,5 @@
 # SimpleIncrementAndDecrementApp-Js_Html_tailwindCss
-This is simple one page website Increment and decrement web app build  with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
+This is simple one page website Increment and decrement web app build  with Tailwind CSS configured. It uses Tailwind CSS version **3.2**.
 
 ## Usage
 
