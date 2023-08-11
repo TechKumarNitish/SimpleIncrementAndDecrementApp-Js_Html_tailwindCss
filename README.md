@@ -10,7 +10,7 @@ To start building your own components and styles, follow these steps:
     git clone https://github.com/TechKumarNitish/SimpleIncrementAndDecrementApp_REACTJS_Html_tailwindCss.git
     ```
 
-1. open index.html with chrome or any web browser
+2. open index.html with chrome or any web browser
 <img src="https://github.com/TechKumarNitish/SimpleIncrementAndDecrementApp_Js_Html_tailwindCss/blob/main/Screenshot%20from%202023-08-11%2013-53-39.png"/>
 
 The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
