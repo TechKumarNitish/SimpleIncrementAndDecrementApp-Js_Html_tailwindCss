@@ -13,6 +13,8 @@ To start building your own components and styles, follow these steps:
 2. open index.html with chrome or any web browser
 <img src="https://github.com/TechKumarNitish/gitHubSource/blob/master/image/counterApp/one.png"/>
 
+![Screencast from 11-08-23 01_48_43 PM IST](https://github.com/TechKumarNitish/SimpleIncrementAndDecrementApp_Js_Html_tailwindCss/assets/69037949/3e522852-8e5e-4606-bd17-95b318770602)
+
 The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
 
 ## Contributing
